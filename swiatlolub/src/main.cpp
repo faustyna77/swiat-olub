@@ -17,7 +17,7 @@ void loop()
   Serial.println(analogRead(foto1));
 }
 
-/*int prawa;
+int prawa;
 int lewa;
 int aktualny;
 int zmierzony;
@@ -82,7 +82,7 @@ else
   {
 
   }
-*/
+
 
   // put your main code here, to run repeatedly:
 
